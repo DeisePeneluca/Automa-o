@@ -7,7 +7,7 @@ Test Setup
 Test Teardown
 
 *** Test Cases ***
-Cenário: 
+Cenário: Teste 2 0k
 
 *** Keywords ***
 Abrir o aplicativo
